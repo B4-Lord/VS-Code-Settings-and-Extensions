@@ -44,7 +44,7 @@ Esta configuração permite realizar **commits** diretamente pelo VS Code, garan
 
 OBS: FAÇA LOGIN NO GITHUB PARA EVITAR ERROS, BASTA IR NO CANTO INFERIOR ESQUERDO - - - PARA CONFIRMAR QUE FEZ O LOGIN, VEJA SE APARECE SEU NOME + (GITHUB). 
 
-    <img src="Images/Github6.png" width="500">
+   <img src="Images/Github6.png" width="500">
 
 ### Passo a Passo para Instalação e Inicialização:
 
