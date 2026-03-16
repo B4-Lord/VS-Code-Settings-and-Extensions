@@ -14,11 +14,11 @@ Antes de qualquer coisa, deixo meu VS Code mais confortável e produtivo com ess
 
    <img src="Images/Basico1.png" width="400">
 
-### 1 Font Size (tamanho da fonte)
+### Font Size (tamanho da fonte)
 - Vá em **Text Editor > Font > Font Size**
 - Recomendo que coloque **14 ou 16** 
 
-### 2 Word Wrap (quebra automática de linha)
+### Word Wrap (quebra automática de linha)
 - Vá em **Editor: Word Wrap**
 - Coloque **on** (ligado)
 
@@ -26,7 +26,7 @@ Imagem para referência:
 
    <img src="Images/Basico2.png" width="400">
 
-### 3 Auto Save (salvar automático)
+### Auto Save (salvar automático)
 - Pesquise por em **Files: Auto Save**
 - Escolha **afterDelay** (salva automaticamente depois de segundos da alteração)
 
@@ -40,22 +40,22 @@ Aqui estão as extensões que deixam o VS Code **bonito** e **prático**.
 
 ### Pesquise por Min Theme em extensões.
 
-- Clique em instalar e depois no botão **Set Color Theme**
+   <img src="Images/Basico7.png" width="400">
 
-<img src="Images/min-theme.png" width="600">
-<img src="Images/min-theme-marketplace.png" width="500">
+- Clique em instalar e depois no botão **Set Color Theme**.
 
-### 2.2 Symbols (Ícones de arquivos)
-- Autor: Miguel Solorio
-- Descrição: Tema simples de ícones para arquivos e pastas.
-- Após instalar:
-  - Clique no botão **Set File Icon Theme** (ou “Set Icon Theme”)
-- Agora seus arquivos HTML, CSS, JS, etc. ficam com ícones coloridos e fáceis de identificar.
+   <img src="Images/Basico6.png" width="400">
 
-<img src="Images/symbols-extension.png" width="600">
-<img src="Images/symbols-marketplace.png" width="500">
+- Escolha o tema da sua preferência.
 
-### 2.3 Live Server (Obrigatória para Front-End!)
+   <img src="Images/Basico5.png" width="400">
+
+### Pesquise por Symbols em extensões.
+ Clique em instalar e depois no botão **Set File Icon Theme** (ou “Set Icon Theme”).
+
+<img src="Images/Basico5.png" width="600">
+
+###  Live Server (Obrigatória para Front-End!)
 - Autor: Ritwick Dey
 - Descrição: Cria um servidor local com **live reload** (atualiza automaticamente a página quando você salva).
 - Perfeita para HTML, CSS e JavaScript puro.
