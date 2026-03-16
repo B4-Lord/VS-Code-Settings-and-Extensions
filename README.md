@@ -112,26 +112,8 @@ Se não estiver e estiver dando erro, vá na aba de extensões, pesquise e insta
 
    <img src="Images/Github11.png" width="400">
 
----
 
-## 🧪 4. Teste de Funcionamento (Como dar Commit)
-
-Para testar se tudo está funcionando e entender como o VS Code mostra as edições:
-
-1. Escreva qualquer coisa no seu código. O VS Code vai identificar (ficando vermelho se for um erro de sintaxe) e o arquivo ficará com um **"M"** (Modified) na aba de controle de versão.
-2. Se você clicar nesse arquivo com o "M", o VS Code vai abrir uma tela dividida mostrando o **Antes e o Depois**. Ele salva as duas versões: a anterior (caso queira reverter) e a nova que vai virar a principal.
-   > ![COLOQUE_A_IMAGEM_ERRO_E_COMPARACAO_AQUI]
-
-3. Para salvar (dar commit), clique em **Commit** e confirme em **Yes** se aparecer algum aviso.
-4. Vai abrir uma aba chamada `COMMIT_EDITMSG`. Escreva a mensagem do seu commit na **primeira linha** (linha 1, que está vazia).
-   > ![COLOQUE_A_IMAGEM_COMMIT_EDITMSG_AQUI]
-
-5. Para o commit ir de fato, basta fechar essa aba no "X" ou clicar na caixa/botão de confirmação no canto da tela.
-   > ![COLOQUE_A_IMAGEM_CONFIRMACAO_COMMIT_AQUI]
-
-   ---
-
-## 🔄 6. Sincronizando Alterações (Push)
+## 🔄 4. Commitando e Sincronizando Alterações (Push)
 
 Depois de realizar o commit localmente, você precisa enviar essas mudanças para o servidor do GitHub para que outras pessoas (ou você em outro PC) possam ver.
 
@@ -143,27 +125,4 @@ Depois de realizar o commit localmente, você precisa enviar essas mudanças par
 
 ---
 
-## ⚠️ 7. Dicas Importantes e Erros Comuns
-
-### Arquivos em Vermelho vs. Verde
-* **Verde (U - Untracked):** Arquivos novos que o Git ainda não conhece.
-* **Amarelo/Laranja (M - Modified):** Arquivos que já existiam, mas foram alterados.
-* **Vermelho:** Indica erro de sintaxe no código (não no Git), o que ajuda a debugar antes de salvar.
-   > ![COLOQUE_A_IMAGEM_DIFERENCA_CORES_ARQUIVOS_AQUI]
-
-### Revertendo Mudanças
-Se você fez uma alteração e se arrependeu antes de dar o commit:
-1. Clique com o botão direito no arquivo dentro da aba Source Control.
-2. Selecione **Discard Changes**. O arquivo voltará a ser exatamente como era antes.
-   > ![COLOQUE_A_IMAGEM_DISCARD_CHANGES_AQUI]
-
----
-
-## 🎨 8. Resultado Final do Ambiente
-
-Após seguir todos os passos, seu VS Code deve estar com o fundo personalizado e totalmente integrado ao seu perfil do GitHub, facilitando o estudo e a organização dos seus projetos.
-
-> ![COLOQUE_A_IMAGEM_DO_SEU_VSCODE_PRONTO_AQUI]
-
----
-**Feito com ❤️ por [SEU NOME]**
+**Feito com ❤️ por B4_Lord**
