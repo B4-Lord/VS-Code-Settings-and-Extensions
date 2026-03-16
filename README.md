@@ -42,6 +42,11 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 
 Esta configuração permite realizar **commits** diretamente pelo VS Code, garantindo que seu repositório seja atualizado em tempo real no GitHub sem a necessidade de comandos externos complexos.
 
+OBS: FAÇA LOGIN NO GITHUB PARA EVITAR ERROS, BASTA IR NO CANTO INFERIOR ESQUERDO - - - PARA CONFIRMAR QUE FEZ O LOGIN, VEJA SE APARECE SEU NOME + (GITHUB). 
+
+<img src="Images/Github6.png" width="200">
+
+
 ### Passo a Passo para Instalação e Inicialização:
 
 ### Instalação e Inicialização:
@@ -55,14 +60,14 @@ Esta configuração permite realizar **commits** diretamente pelo VS Code, garan
 
 ### Configuração de Identidade (Resolvendo Erros):
 
-ERRO:
+    Erro:
 
-<img src="Images/Github4.png" width="400">
+<img src="Images/Github4.png" width="450">
 
 
 Se ao tentar dar um **Commit** aparecer um erro pedindo `user.name` e `user.email`, abra o seu terminal (Git Bash) e digite os seguintes comandos (um por vez mudando os dados para os da sua conta do Github):
 
-<img src="Images/Github2.png" width="500">
+<img src="Images/Github2.png" width="400">
 
 ```bash
 git config --global user.name "SEU_NOME_AQUI"
@@ -80,7 +85,7 @@ git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
 Com a identidade configurada, você já pode enviar seu repositório para a nuvem.
 
 1. Na aba de Source Control, clique em **Publish Branch**.
-   > ![COLOQUE_A_IMAGEM_PUBLISH_BRANCH_AQUI]
+   <img src="Images/Github5.png" width="500">
 
 2. O VS Code vai pedir permissão para acessar o GitHub com a mensagem *"The extension 'GitHub' wants to sign in using GitHub"*. Clique em **Allow**.
    > ![COLOQUE_A_IMAGEM_ALLOW_GITHUB_AQUI]
