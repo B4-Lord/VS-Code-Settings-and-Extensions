@@ -18,13 +18,13 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 3. No menu de configuração, navegue até a aba **Window** e selecione-a .
    <img src="Images/Background3.png" width="500">
 
-5. Vá na seção **File**.
+4. Vá na seção **File**.
    <img src="Images/Background4.png" width="500">
 
-6. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL..
+5. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL..
     <img src="Images/Background5.png" width="500">
 
-7. No canto Direito Inferior vai aparecer um botão ***(Install and Reload)*** para reniciar e aplicar o Wallpaper.
+6. No canto Direito Inferior vai aparecer um botão ***(Install and Reload)*** para reniciar e aplicar o Wallpaper.
     <img src="Images/Background6.png" width="500">
 
 *Dica: Para imagens em alta definição, use um site de **UPSCALE** antes de colocar no VS Code.*
