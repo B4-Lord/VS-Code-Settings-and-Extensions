@@ -10,19 +10,24 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 
 ### Passo a Passo:
 1. Instale a extensão **Background** (criada por Katsute) na Marketplace do VS Code.
-   > ![COLOQUE_A_IMAGEM_DA_EXTENSAO_AQUI]
+   <img src="Images/Background.png" width="500">
 
 2. Pressione `CTRL + SHIFT + P`, digite **"Background: Configuration"** e selecione a opção que aparecer.
-   > ![COLOQUE_A_IMAGEM_DO_COMMAND_PALETTE_AQUI]
+   <img src="Images/Background2.png" width="500">
 
-3. Clique em **Install**. Após a instalação, repita o comando `CTRL + SHIFT + P` -> **Background: Configuration**.
-4. No menu de configuração, navegue até a aba **Window**.
-   > ![COLOQUE_A_IMAGEM_DO_MENU_WINDOW_AQUI]
+3. No menu de configuração, navegue até a aba **Window** e selecione-a .
+   <img src="Images/Background3.png" width="500">
 
-5. Vá na seção **File** e adicione o caminho do arquivo da imagem no seu PC ou uma URL.
-   > ![COLOQUE_A_IMAGEM_DE_ADICIONAR_ARQUIVO_AQUI]
+5. Vá na seção **File**.
+   <img src="Images/Background4.png" width="500">
 
-*Dica: Para imagens em alta definição, use o site [imgupscaler.com](https://imgupscaler.com/) antes de colocar no VS Code.*
+6. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL..
+    <img src="Images/Background5.png" width="500">
+
+7. No canto Direito Inferior vai aparecer um botão ***(Install and Reload)*** para reniciar e aplicar o Wallpaper.
+    <img src="Images/Background6.png" width="500">
+
+*Dica: Para imagens em alta definição, use um site de **UPSCALE** antes de colocar no VS Code.*
 
 ---
 
