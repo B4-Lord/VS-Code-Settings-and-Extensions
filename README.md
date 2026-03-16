@@ -44,28 +44,28 @@ Aqui estão as extensões que deixam o VS Code **bonito** e **prático**.
 
 - Clique em instalar e depois no botão **Set Color Theme**.
 
-   <img src="Images/Basico6.png" width="400">
+   <img src="Images/Basico4.png" width="400">
 
 - Escolha o tema da sua preferência.
 
-   <img src="Images/Basico5.png" width="400">
+   <img src="Images/Basico6.png" width="400">
 
 ### Pesquise por Symbols em extensões.
- Clique em instalar e depois no botão **Set File Icon Theme** (ou “Set Icon Theme”).
+- Clique em instalar e depois no botão **Set File Icon Theme** (ou “Set Icon Theme”).
 
-<img src="Images/Basico5.png" width="600">
+   <img src="Images/Basico5.png" width="600">
 
-###  Live Server (Obrigatória para Front-End!)
-- Autor: Ritwick Dey
+### Live Server (Obrigatória para Front-End!)
+
 - Descrição: Cria um servidor local com **live reload** (atualiza automaticamente a página quando você salva).
-- Perfeita para HTML, CSS e JavaScript puro.
-- Como usar:
-  - Instale e recarregue o VS Code.
-  - Abra um arquivo `.html`, clique com o botão direito → **Open with Live Server**
-  - Ou clique no botão **Go Live** que aparece na barra inferior direita.
 
-<img src="Images/go-live.png" width="400">
-<img src="Images/live-server-marketplace.png" width="500">
+- Clique em instalar
+
+   <img src="Images/Liveserver.png" width="400">
+
+- Para usar, clique no botão **Go Live** que aparece na barra inferior direita.
+
+   <img src="Images/golive.png" width="400">
 
 **Resultado:** Você vê as mudanças em tempo real no navegador sem precisar ficar atualizando manualmente. Essencial para front-end!
 
