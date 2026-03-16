@@ -119,28 +119,30 @@ Este é o processo para salvar suas versões e enviar para o GitHub em tempo rea
 
 ### Passo 1: Fazer uma alteração
 Para que o Git identifique uma mudança, você precisa alterar algo no código ou adicionar um novo arquivo à sua pasta de projeto. O VS Code mostrará um número na aba de **Source Control**.
-> <img src="Images/Github12.png" width="400">
+
+    <img src="Images/Github12.png" width="400">
 
 ### Passo 2: O Processo de Commit
 1. Clique no ícone de **Source Control** na barra lateral.
 2. Clique no botão **Commit** (o botão azul/verde com o check).
 3. Automaticamente, o VS Code abrirá um arquivo de texto chamado `COMMIT_EDITMSG`.
 
-   > <img src="Images/Github13.png" width="700">
+<img src="Images/Github13.png" width="700">
 
 4. **Escreva a palavra "commit"** (ou uma descrição da sua mudança) na primeira linha deste arquivo.
 
-   > <img src="Images/Github14.png" width="300">
+   <img src="Images/Github14.png" width="300">
 
 5. **Feche o arquivo `COMMIT_EDITMSG`** clicando no "X" da aba. Isso confirma o commit no seu computador.
 
 ### Passo 3: Sincronizar (Push)
 1. Agora, clique no botão **Sync Changes** (ou no ícone de setas circulares no canto inferior).
 
-   > <img src="Images/Github15.png" width="400">
+   <img src="Images/Github15.png" width="400">
 
-2. Se aparecer um aviso sobre as ações de **Push e Pull**, clique em **OK**. Isso enviará suas atualizações para o site do GitHub e baixará qualquer novidade do servidor.
-   > ![COLOQUE_A_IMAGEM_AVISO_PUSH_PULL_AQUI]
+2. Se tudo der certo, você vai conseguir vizualizar uma parte escrito **GRAPH** e uma mensagem escrito commit + "Seu User" e seu repositorio no Github web estará atualizado.
+
+   <img src="Images/Github16.png" width="400">
 
 ---
 
