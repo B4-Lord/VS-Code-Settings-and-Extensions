@@ -22,8 +22,9 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 
    <img src="Images/Background4.png" width="500">
 
-5. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL..
-    <img src="Images/Background5.png" width="500">
+5. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL...
+
+<img src="Images/Background5.png" width="500">
 
 6. No canto Direito Inferior vai aparecer um botão ***(Install and Reload)*** para reniciar e aplicar o Wallpaper.
     <img src="Images/Background6.png" width="500">
