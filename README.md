@@ -19,6 +19,7 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
    <img src="Images/Background3.png" width="500">
 
 4. Vá na seção **File**.
+
    <img src="Images/Background4.png" width="500">
 
 5. Depois clique em **Add a File ou em Add a URL** e adicione o caminho do arquivo da imagem no seu PC ou uma URL..
