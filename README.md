@@ -28,30 +28,38 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 6. No canto Direito Inferior vai aparecer um botão ***(Install and Reload)*** para reniciar e aplicar o Wallpaper.
     <img src="Images/Background6.png" width="500">
 
-*Dica: Para imagens em alta definição, use um site de **UPSCALE** antes de colocar no VS Code.*
+*Dica: Para imagens em alta definição, use um site de **UPSCALE** antes de colocar a imagem no VS Code.*
 
 ---
 
 ## 🛠️ 2. Configurando o Git e Terminal (Git Bash)
 
-Para versionar o código e enviar para o GitHub, siga estes passos:
+Esta configuração permite realizar **commits** diretamente pelo VS Code, garantindo que seu repositório seja atualizado em tempo real no GitHub sem a necessidade de comandos externos complexos.
+
+### Passo a Passo para Instalação e Inicialização:
 
 ### Instalação e Inicialização:
 1. Baixe o Git para Windows em: [git-scm.com/download/win](https://git-scm.com/download/win).
-   > ![COLOQUE_A_IMAGEM_DO_LOGO_GIT_AQUI]
+   <img src="Images/Github.png"
 
 2. No VS Code, abra a aba de **Source Control** (ícone de ramificação na lateral) e clique em **Initialize Repository**.
-   > ![COLOQUE_A_IMAGEM_DE_INITIALIZE_REPOSITORY_AQUI]
+   <img src="Images/Github1.png"
 
 ### Configuração de Identidade (Resolvendo Erros):
-Se ao tentar dar um **Commit** aparecer um erro pedindo `user.name` e `user.email`, abra o seu terminal (Git Bash) e digite os seguintes comandos (um por vez):
+Se ao tentar dar um **Commit** aparecer um erro pedindo `user.name` e `user.email`, abra o seu terminal (Git Bash) e digite os seguintes comandos (um por vez mudando os dados para os da sua conta do Github):
+
+ERRO:
+<img src="Images/Github4.png"
+
+
+<img src="Images/Github2.png"
 
 ```bash
 git config --global user.name "SEU_NOME_AQUI"
 git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
 ```
 
-> ![COLOQUE_A_IMAGEM_DO_TERMINAL_GIT_BASH_AQUI]
+<img src="Images/Github3.png"
 
 *Após rodar os comandos (uma linha por vez, dando Enter), feche o Visual Studio Code e abra-o novamente. Tente fazer o commit mais uma vez.*
 
