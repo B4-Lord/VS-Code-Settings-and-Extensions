@@ -47,28 +47,28 @@ Esta configuração permite realizar **commits** diretamente pelo VS Code, garan
 ### Instalação e Inicialização:
 1. Baixe o Git para Windows em: [git-scm.com/download/win](https://git-scm.com/download/win).
 
-   <img src="Images/Github.png"
+   <img src="Images/Github.png" width="500">
 
 2. No VS Code, abra a aba de **Source Control** (ícone de ramificação na lateral) e clique em **Initialize Repository**.
 
-   <img src="Images/Github1.png"
+   <img src="Images/Github1.png" width="500">
 
 ### Configuração de Identidade (Resolvendo Erros):
 Se ao tentar dar um **Commit** aparecer um erro pedindo `user.name` e `user.email`, abra o seu terminal (Git Bash) e digite os seguintes comandos (um por vez mudando os dados para os da sua conta do Github):
 
 ERRO:
 
-<img src="Images/Github4.png"
+<img src="Images/Github4.png" width="500">
 
 
-<img src="Images/Github2.png"
+<img src="Images/Github2.png" width="500">
 
 ```bash
 git config --global user.name "SEU_NOME_AQUI"
 git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
 ```
 
-<img src="Images/Github3.png"
+<img src="Images/Github3.png" width="500">
 
 *Após rodar os comandos (uma linha por vez, dando Enter), feche o Visual Studio Code e abra-o novamente. Tente fazer o commit mais uma vez.*
 
