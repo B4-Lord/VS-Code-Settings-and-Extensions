@@ -24,7 +24,7 @@ Antes de qualquer coisa, deixo meu VS Code mais confortável e produtivo com ess
 
 Imagem para referência:
 
-   <img src="Images/Basico2.png" width="400">
+   <img src="Images/Basico2.png" width="500">
 
 ### Auto Save (salvar automático)
 - Pesquise por em **Files: Auto Save**
@@ -40,7 +40,7 @@ Aqui estão as extensões que deixam o VS Code **bonito** e **prático**.
 
 ### Pesquise por Min Theme em extensões.
 
-   <img src="Images/Basico7.png" width="400">
+   <img src="Images/Basico7.png" width="350">
 
 - Clique em instalar e depois no botão **Set Color Theme**.
 
