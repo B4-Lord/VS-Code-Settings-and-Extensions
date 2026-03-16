@@ -83,10 +83,10 @@ git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
 
 Com a identidade configurada e confirmada, você já pode enviar seu repositório para a nuvem.
 
-   <img src="Images/Github6.png" width="500">
+   <img src="Images/Github6.png" width="300">
 
 1. Na aba de Source Control, clique em **Publish Branch**.
-   <img src="Images/Github5.png" width="500">
+   <img src="Images/Github5.png" width="300">
 
 2. O VS Code vai pedir permissão para acessar o GitHub com a mensagem *"The extension 'GitHub' wants to sign in using GitHub"*. Clique em **Allow**.
    > ![COLOQUE_A_IMAGEM_ALLOW_GITHUB_AQUI]
