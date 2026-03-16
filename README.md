@@ -1,6 +1,8 @@
-# 💻 Minhas Configurações do VS Code + Extensões
+<h1 align="center">💻 Minhas Configurações do VS Code + Extensões</h1>
 
-Este guia explica como configurar o visual do meu VS Code e a integração com o Git/GitHub conforme as capturas de tela.
+## Este guia explica como configurar o visual do meu VS Code e a integração com o Git/GitHub conforme as capturas de tela.
+
+---
 
 ---
 
