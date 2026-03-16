@@ -85,14 +85,16 @@ Com a identidade configurada e confirmada, você já pode enviar seu repositóri
 
    <img src="Images/Github6.png" width="300">
 
+
 1. Na aba de Source Control, clique em **Publish Branch**.
+
    <img src="Images/Github5.png" width="300">
 
-2. O VS Code vai pedir permissão para acessar o GitHub com a mensagem *"The extension 'GitHub' wants to sign in using GitHub"*. Clique em **Allow**.
-   > ![COLOQUE_A_IMAGEM_ALLOW_GITHUB_AQUI]
+2. O VS Code pode pedir permissão para acessar o GitHub com a mensagem *"The extension 'GitHub' wants to sign in using GitHub"*. Clique em **Allow**.
+   <img src="Images/Github7.png" width="400">
 
 3. Na barra superior que aparecer, escolha se o repositório será **Público** ou **Privado**.
-   > ![COLOQUE_A_IMAGEM_PUBLIC_PRIVATE_AQUI]
+   <img src="Images/Github8.png" width="400">
 
 4. Uma aba será aberta no navegador pedindo para autorizar. Clique em **Sign in with your browser** e faça o login.
    > ![COLOQUE_A_IMAGEM_SIGN_IN_BROWSER_AQUI]
