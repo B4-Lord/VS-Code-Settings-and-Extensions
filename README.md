@@ -53,7 +53,7 @@ Aqui estão as extensões que deixam o VS Code **bonito** e **prático**.
 ### Pesquise por Symbols em extensões.
 - Clique em instalar e depois no botão **Set File Icon Theme** (ou “Set Icon Theme”).
 
-   <img src="Images/Basico5.png" width="600">
+   <img src="Images/Basico5.png" width="400">
 
 ### Live Server (Obrigatória para Front-End!)
 
