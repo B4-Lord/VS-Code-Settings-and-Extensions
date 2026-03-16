@@ -91,22 +91,28 @@ Com a identidade configurada e confirmada, você já pode enviar seu repositóri
    <img src="Images/Github5.png" width="300">
 
 2. O VS Code pode pedir permissão para acessar o GitHub com a mensagem *"The extension 'GitHub' wants to sign in using GitHub"*. Clique em **Allow**.
+
    <img src="Images/Github7.png" width="400">
 
 3. Na barra superior que aparecer, escolha se o repositório será **Público** ou **Privado**.
+
    <img src="Images/Github8.png" width="400">
 
 4. Uma aba será aberta no navegador pedindo para autorizar. Clique em **Sign in with your browser** e faça o login.
+
    > ![COLOQUE_A_IMAGEM_SIGN_IN_BROWSER_AQUI]
 
 5. Vá no site do GitHub, acesse seu perfil e verifique se o repositório foi criado certinho.
+
    > ![COLOQUE_A_IMAGEM_REPOSITORIO_CRIADO_AQUI]
 
 ### ⚠️ Verificação de Perfil (Caso dê erro)
 Vá no ícone de Conta/Perfil no canto inferior esquerdo do VS Code e confira se a sua conta do GitHub aparece logada.
+
 > ![COLOQUE_A_IMAGEM_PERFIL_LOGADO_AQUI]
 
 Se não estiver e estiver dando erro, vá na aba de extensões, pesquise e instale separadamente a extensão **GitHub Pull Requests and Issues**.
+
 > ![COLOQUE_A_IMAGEM_EXTENSAO_GITHUB_PULL_REQUESTS_AQUI]
 
 ---
