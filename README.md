@@ -115,12 +115,31 @@ Se não estiver e estiver dando erro, vá na aba de extensões, pesquise e insta
 
 ## 🔄 4. Commitando e Sincronizando Alterações (Push)
 
-Depois de realizar o commit localmente, você precisa enviar essas mudanças para o servidor do GitHub para que outras pessoas (ou você em outro PC) possam ver.
+Este é o processo para salvar suas versões e enviar para o GitHub em tempo real.
 
-1. No canto inferior esquerdo ou na aba de Source Control, clique no ícone de setas circulares ou no botão **Sync Changes**.
-   > ![COLOQUE_A_IMAGEM_BOTAO_SYNC_CHANGES_AQUI]
+### Passo 1: Fazer uma alteração
+Para que o Git identifique uma mudança, você precisa alterar algo no código ou adicionar um novo arquivo à sua pasta de projeto. O VS Code mostrará um número na aba de **Source Control**.
+> <img src="Images/Github12.png" width="400">
 
-2. Se aparecer um aviso sobre o "Push" e "Pull", clique em **OK**. Isso fará com que o VS Code envie suas fotos/códigos novos e baixe qualquer coisa que tenha mudado no site.
+### Passo 2: O Processo de Commit
+1. Clique no ícone de **Source Control** na barra lateral.
+2. Clique no botão **Commit** (o botão azul/verde com o check).
+3. Automaticamente, o VS Code abrirá um arquivo de texto chamado `COMMIT_EDITMSG`.
+
+   > <img src="Images/Github13.png" width="700">
+
+4. **Escreva a palavra "commit"** (ou uma descrição da sua mudança) na primeira linha deste arquivo.
+
+   > <img src="Images/Github14.png" width="300">
+
+5. **Feche o arquivo `COMMIT_EDITMSG`** clicando no "X" da aba. Isso confirma o commit no seu computador.
+
+### Passo 3: Sincronizar (Push)
+1. Agora, clique no botão **Sync Changes** (ou no ícone de setas circulares no canto inferior).
+
+   > <img src="Images/Github15.png" width="400">
+
+2. Se aparecer um aviso sobre as ações de **Push e Pull**, clique em **OK**. Isso enviará suas atualizações para o site do GitHub e baixará qualquer novidade do servidor.
    > ![COLOQUE_A_IMAGEM_AVISO_PUSH_PULL_AQUI]
 
 ---
