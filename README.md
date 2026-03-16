@@ -4,7 +4,119 @@
 
 ---
 
-## 🎨 1. Personalização Visual (Background)
+# ⚙️ 1. Configurações Básicas do VS Code
+
+Antes de qualquer coisa, deixo meu VS Code mais confortável e produtivo com essas configurações essenciais. Todas elas são feitas no **User Settings** (configurações do usuário).
+
+### Como abrir as configurações
+1. Pressione `Ctrl + Shift + P`
+2. Digite `>open` e escolha **Preferences: Open User Settings** (ou simplesmente `Ctrl + ,`).
+
+   <img src="Images/Basico1.png" width="400">
+
+### 1 Font Size (tamanho da fonte)
+- Vá em **Text Editor > Font > Font Size**
+- Recomendo que coloque **14 ou 16** 
+
+### 2 Word Wrap (quebra automática de linha)
+- Vá em **Editor: Word Wrap**
+- Coloque **on** (ligado)
+
+Imagem para referência:
+
+   <img src="Images/Basico2.png" width="400">
+
+### 3 Auto Save (salvar automático)
+- Pesquise por em **Files: Auto Save**
+- Escolha **afterDelay** (salva automaticamente depois de segundos da alteração)
+
+   <img src="Images/Basico3.png" width="400">
+
+---
+
+# 🎨 2. Extensões de Visual e Utilidade
+
+Aqui estão as extensões que deixam o VS Code **bonito** e **prático**.
+
+### Pesquise por Min Theme em extensões.
+
+- Clique em instalar e depois no botão **Set Color Theme**
+
+<img src="Images/min-theme.png" width="600">
+<img src="Images/min-theme-marketplace.png" width="500">
+
+### 2.2 Symbols (Ícones de arquivos)
+- Autor: Miguel Solorio
+- Descrição: Tema simples de ícones para arquivos e pastas.
+- Após instalar:
+  - Clique no botão **Set File Icon Theme** (ou “Set Icon Theme”)
+- Agora seus arquivos HTML, CSS, JS, etc. ficam com ícones coloridos e fáceis de identificar.
+
+<img src="Images/symbols-extension.png" width="600">
+<img src="Images/symbols-marketplace.png" width="500">
+
+### 2.3 Live Server (Obrigatória para Front-End!)
+- Autor: Ritwick Dey
+- Descrição: Cria um servidor local com **live reload** (atualiza automaticamente a página quando você salva).
+- Perfeita para HTML, CSS e JavaScript puro.
+- Como usar:
+  - Instale e recarregue o VS Code.
+  - Abra um arquivo `.html`, clique com o botão direito → **Open with Live Server**
+  - Ou clique no botão **Go Live** que aparece na barra inferior direita.
+
+<img src="Images/go-live.png" width="400">
+<img src="Images/live-server-marketplace.png" width="500">
+
+**Resultado:** Você vê as mudanças em tempo real no navegador sem precisar ficar atualizando manualmente. Essencial para front-end!
+
+---
+
+# 🛠️ 3. Configurando o Git e Terminal (Git Bash)
+
+Esta configuração permite realizar **commits** diretamente pelo VS Code, garantindo que seu repositório seja atualizado em tempo real no GitHub sem a necessidade de comandos externos complexos.
+
+**OBS:** FAÇA LOGIN NO GITHUB PARA EVITAR ERROS. Basta ir no canto inferior esquerdo — veja se aparece seu nome + (GitHub).
+
+<img src="Images/Github6.png" width="300">
+
+### Passo a Passo para Instalação e Inicialização:
+1. Baixe o Git para Windows em: [git-scm.com/download/win](https://git-scm.com/download/win).
+
+<img src="Images/Github.png" width="200">
+
+2. No VS Code, abra a aba de **Source Control** (ícone de ramificação na lateral) e clique em **Initialize Repository**.
+
+<img src="Images/Github1.png" width="200">
+
+### Configuração de Identidade (Resolvendo Erros):
+Se aparecer erro pedindo `user.name` e `user.email`:
+
+Abra o terminal (Git Bash) e digite (um por vez):
+
+```bash
+git config --global user.name "SEU_NOME_AQUI"
+git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">💻 Minhas Configurações do VS Code + Extensões</h1>
+
+## Este guia explica como configurar o visual do meu VS Code e a integração com o Git/GitHub conforme as capturas de tela.
+
+---
+
+# 🎨 1. Personalização Visual (Background)
 
 Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **Background**.
 
@@ -37,8 +149,10 @@ Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **
 *Dica: Para imagens em alta definição, use um site de **UPSCALE** antes de colocar a imagem no VS Code.*
 
 ---
+# ... 2. Configurando o visual do github (Git Bash)
 
-## 🛠️ 2. Configurando o Git e Terminal (Git Bash)
+
+# 🛠️ 3. Configurando o Git e Terminal (Git Bash)
 
 Esta configuração permite realizar **commits** diretamente pelo VS Code, garantindo que seu repositório seja atualizado em tempo real no GitHub sem a necessidade de comandos externos complexos.
 
