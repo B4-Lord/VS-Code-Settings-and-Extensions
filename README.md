@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ## 🎨 1. Personalização Visual (Background)
 
 Para deixar o editor com imagens de fundo personalizadas, utilizo a extensão **Background**.
