@@ -44,7 +44,7 @@ Esta configuração permite realizar **commits** diretamente pelo VS Code, garan
 
 OBS: FAÇA LOGIN NO GITHUB PARA EVITAR ERROS, BASTA IR NO CANTO INFERIOR ESQUERDO - - - PARA CONFIRMAR QUE FEZ O LOGIN, VEJA SE APARECE SEU NOME + (GITHUB). 
 
-   <img src="Images/Github6.png" width="500">
+   <img src="Images/Github6.png" width="300">
 
 ### Passo a Passo para Instalação e Inicialização:
 
@@ -81,7 +81,9 @@ git config --global user.email "SEU_EMAIL_DO_GITHUB@exemplo.com"
 
 ## 🚀 3. Conectando com o GitHub e Publicando
 
-Com a identidade configurada, você já pode enviar seu repositório para a nuvem.
+Com a identidade configurada e confirmada, você já pode enviar seu repositório para a nuvem.
+
+   <img src="Images/Github6.png" width="500">
 
 1. Na aba de Source Control, clique em **Publish Branch**.
    <img src="Images/Github5.png" width="500">
